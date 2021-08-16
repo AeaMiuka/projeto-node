@@ -51,11 +51,11 @@ npm install nodemon -D    (por exemplo)
 no package.json
 
 "scripts"; {
-    "morango"; nodemon server.js"
+    "dev"; nodemon server.js"
     }
     
 no prompt vc executa;
-npm run morango
+npm run dev
 
 
 
