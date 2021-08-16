@@ -1,13 +1,17 @@
 # projeto-node
+
 projeto-node2bp
 
 ### Iniciar um projeto node no gitHub
 
-Criar um repositório (private ou public) Escolher a tecnologia (.gitignore), caso disponível Escolher a opção README.md
+Criar um repositório (private ou public) 
+Escolher a tecnologia (.gitignore), caso disponível 
+Escolher a opção README.md
 
 ### Clonar o projeto para o computador local
 
-Escolher a pasta correspondente aos seus projetos Escolher um editor eficiente (VsCode, Atom, SublimeText, NetBeans, WebStorm ...)
+Escolher a pasta correspondente aos seus projetos 
+Escolher um editor eficiente (VsCode, Atom, SublimeText, NetBeans, WebStorm ...)
 
 Tendo acesso ao prompt de comando
 
@@ -22,7 +26,12 @@ npm install "NOME DA TECNOLOGIA"
 
 Exemplo: ->      npm install express
 
-Sempre pesquisar a tecnologia no site que contém a documentação oficial exemplo (npm, yarn ) Exemplo: -> npm install express -> yarn add express
+Sempre pesquisar a tecnologia no site que contém a documentação oficial exemplo (npm, yarn ) 
+
+Exemplo: 
+
+-> npm install express 
+-> yarn add express
 
 Obs: A pasta node_modules contém todas as tecnologias (dependencias) de terceiros
 
